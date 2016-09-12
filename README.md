@@ -5,10 +5,10 @@ This would be a big project, so we'd need some programmers on the way, you know.
 FAQ:
 Q:What does the engine include?
 A:
--Basic movement(Jumping ,shooting and walking.)
--Chargable buster ,Slide,And screws.
--Enemies,bosses and weapon compability(Wich can be added with ease.)
--Different collision types,gimmicks,and Drops(Etanks,lifes,Health capsules...)
+Basic movement(Jumping ,shooting and walking.)
+Chargable buster ,Slide,And screws.
+enemies,bosses and weapon compability(Wich can be added with ease.)
+Different collision types,gimmicks,and Drops(Etanks,lifes,Health capsules...)
 Q:Is there a tutorial series for this?
 A:Shearch for WreckingPrograms on YT.
 ------------------------------------
